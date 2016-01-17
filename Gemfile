@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 ruby '2.1.2'
 
+gem 'bcrypt', '~> 3.1.7'
+gem 'bootstrap_form'
 gem 'bootstrap-sass', '3.3.2'
 gem 'coffee-rails'
 gem 'rails', '4.1.1'
